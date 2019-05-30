@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491756352194",
+    "firebase_url": "https://x-football.firebaseio.com",
+    "project_id": "x-football",
+    "storage_bucket": "x-football.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491756352194:android:2dd607143c29dec7",
+        "android_client_info": {
+          "package_name": "com.darryl.xfootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491756352194-ukv8hv2ddvl96ptjfa4iv7kp90ucapj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ludrhj3m3-wI792TKDWCzhIIc1TVXN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491756352194-ukv8hv2ddvl96ptjfa4iv7kp90ucapj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
